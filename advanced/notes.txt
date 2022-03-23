@@ -1,0 +1,4 @@
+Instalar via composer.
+Acessar a pasta raiz do projeto pelo terminal.
+Comando php init, 0 e yes.
+Remova o ';' do extension=gd no php.ini
